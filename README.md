@@ -1,1 +1,1 @@
-# javascript-to-rust-by-example
+# js2r-javascript-to-rust-by-example
